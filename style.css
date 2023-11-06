@@ -1,0 +1,114 @@
+
+.overskrift
+    {
+    text-align: center;
+    font-size: 3rem;
+    color: rgba(4, 216, 57, 1);
+    font-family: monospace;
+    }
+
+.link 
+    {
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 10px;
+    border-radius: 50px;
+    box-sizing: border-box;
+    color: rgba(3, 191, 172, 1); 
+    }
+
+.link:hover
+    {
+    transition: 5s;
+    border: 30px solid (2, 103, 114, 1);
+    font-size: 3rem;
+    color: rgba(3, 191, 172, 1); 
+    }
+
+.link:visited
+    {
+    color: rgba(3, 191, 172, 1); 
+    }
+
+.hovedlinken
+    {
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: 5rem;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    color: rgba(3, 191, 172, 1); 
+    }
+
+.teller
+    {
+    color: rgba(3, 191, 172, 1); 
+    font-size: 2rem;
+    text-align: center;
+    }
+
+.div 
+    {  
+    margin: auto;
+    width: max-content;
+    }
+
+.div img
+    {
+    text-align: center;
+    padding: 1px;
+    width: 500px;
+    }
+.ferdigbilde:hover
+    {
+    transition: 0,5s;
+    rotate: 360deg;
+    width: 500px;
+    }
+
+#feil-img
+    {
+    text-align: center;
+    width: 100%;
+    width: 1000px;
+    padding: 1px;
+    }
+
+
+.spm-alt
+    {
+    justify-content: center;
+    display: flex;
+    }
+
+.endlink
+    {
+    text-decoration: none;
+    font-size: 10rem;
+    border-radius: 50px;
+    box-sizing: border-box;
+    color: rgba(3, 191, 172, 1); 
+    }
+
+
+
+
+
+
+
+
+
+
+.colour5 { color: rgba(2, 62, 114, 1); }
+.colour4 { color: rgba(97, 161, 216, 1); }
+.colour3 { color: rgba(2, 103, 114, 1); }
+.colour2 { color: rgba(3, 191, 172, 1); }
+.colour1 { color: rgba(4, 216, 57, 1); }
+
+
+body
+    {
+    background-color: rgba(2, 103, 114, 1);
+    }
