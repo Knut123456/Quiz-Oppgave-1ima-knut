@@ -35,8 +35,8 @@
     {
     border: 2px solid black;
     text-decoration: none;
-    font-size: 5rem;
-    padding: 10px;
+    font-size: 3rem;
+    padding: 40px;
     text-align: center;
     margin: auto;
     color: rgba(3, 191, 172, 1); 
@@ -58,7 +58,7 @@
 .div img
     {
     text-align: center;
-    padding: 1px;
+    padding: 20px;
     width: 500px;
     }
 .ferdigbilde:hover
