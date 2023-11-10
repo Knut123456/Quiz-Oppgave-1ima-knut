@@ -1,0 +1,1 @@
+localStorage.setItem("liv", 3)
