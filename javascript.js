@@ -16,3 +16,4 @@ submitAnswerButton.addEventListener("click", function () {
         resultDisplay.textContent = "Feil svar. Prøv igjen.";
     }
 });
+
